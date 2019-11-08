@@ -1,0 +1,29 @@
+{
+  "name": "nodeplantas",
+  "version": "1.0.0",
+  "description": "api para o exemplo lista-crud-app do artigo medium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMak/apiexpressjs.git"
+  },
+  "author": "Andrew Chan Mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMak/apiexpressjs/issues"
+  },
+  "homepage": "https://github.com/AndrewMak/apiexpressjs#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.3.12",
+    "multer": "^1.4.1"
+  }
+}
