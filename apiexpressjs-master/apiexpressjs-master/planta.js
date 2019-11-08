@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-// Create Schema
+// Create Schemajhj
 const PlantaSchema = new Schema({
     nome_planta: {
         type: String,
